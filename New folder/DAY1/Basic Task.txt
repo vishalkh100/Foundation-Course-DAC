@@ -1,0 +1,15 @@
+Q1. Accept two number and print its remainder
+Q2. Accept two number and print quotient 
+Q3. Accept a number and print it’s square
+Q4. Accept 5 number and do the sum of it.
+Q5. Accept a character and print it on screen
+Q6. Accept a [capital] character and add 32 in it and print it.
+Q7. Accept a character and print its ascii value
+Q8. Accept a decimal value and print its’s whole number eg input 2.57  O/P=2
+Q9. Accept a decimal value and print its decimal part eg. Input 2.57 O/P 0.57
+Q10. Accept a number and print it’s next value[use one memory block]
+Q11. Accept a character and print it’s next character[use one memory block]
+Q13. Accept a salary and deduct 10% from it and print netsalary[salary-10% tds].
+Q14. Accept a number and print its previous number eg input 5 out put 4 [use one memory block]
+Q15. Accept a number and print its cube.
+ 

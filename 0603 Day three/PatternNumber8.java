@@ -17,7 +17,7 @@ public class PatternNumber8 {
                 
             }
             if(i==4) {
-                System.out.print("1");
+                System.out.print(1);
             }
             System.out.println();
         }
